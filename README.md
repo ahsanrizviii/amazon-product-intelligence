@@ -13,7 +13,6 @@ An end-to-end marketplace intelligence platform that scrapes live Amazon product
 ## 👨‍💻 Authors
 
 - **Ahsan Rizvi** — Software Engineer Trainee at BJIT
-- **Raisa Mahabub Ahona** — CSE Graduate, North South University
 
 ---
 
