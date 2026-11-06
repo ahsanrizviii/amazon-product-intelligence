@@ -10,9 +10,10 @@ An end-to-end marketplace intelligence platform that scrapes live Amazon product
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Ahsan Rizvi**
+- **Ahsan Rizvi** — Software Engineer Trainee at BJIT
+- **Raisa Mahabub Ahona** — CSE Graduate, North South University
 
 ---
 
