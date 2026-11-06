@@ -13,6 +13,7 @@ An end-to-end marketplace intelligence platform that scrapes live Amazon product
 ## 👨‍💻 Authors
 
 - **Ahsan Rizvi** — Software Engineer Trainee at BJIT
+- **Raisa Mahabub Ahona** — CSE Graduate, North South University
 
 ---
 
@@ -206,6 +207,6 @@ Under the following terms:
 - **Attribution (Credit Required):** You must give appropriate credit to the original author (**Ahsan Rizvi**), provide a link to this repository, and indicate if changes were made.
 - **NonCommercial:** You may not use the material for commercial purposes without explicit permission.
 
-If you utilize this code in your own research or project, please cite: **Rizvi, A. (2026). Amazon Marketplace Product Intelligence Platform. GitHub Repository.**
+If you utilize this code in your own research or project, please cite: **Rizvi, A. & Ahona, R. M. (2026). Amazon Marketplace Product Intelligence Platform. GitHub Repository.**
 
 
